@@ -38,7 +38,7 @@ sekolahsmk
 ├── guru/      #tampilan & proses guru
 ├── pelajaran/ #tampilan & proses pelajaran
 ├── report/    #file-file laporan ujian
-├── school/	   #File-file profil sekolah
+├── school/    #File-file profil sekolah
 ├── siswa/     #File tampilan & proses siswa
 ├── template/  #File footer, header, navbar, sidebar
 ├── ujian/     #File nilai ujian & prosesnya
