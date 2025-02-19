@@ -24,8 +24,8 @@ Website sekolah SMK-MURIHA adalah sistem pengelolaan data guru dan siswa sekolah
 
 ## 💻 Persyaratan Sistem
 
-- XAMPP 8.2.12 atau diatasnya
-- PHP 8.2 atau diatasnya
+- XAMPP 7.3.2 atau diatasnya
+- PHP 7.3 atau diatasnya
 - Bootstrap 5 atau diatasnya
 
 ## 📁 Struktur 
